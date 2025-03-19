@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NeoLight" parent="android:Theme.Material.Light.NoActionBar" />
+  <!-- Base application theme. -->
+    <style name="Base.Theme.NeoLight" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.PdfView.SelectedTheme" parent="@style/Theme.PdfView.Light">
+        <item name="pdfView_showToolbar">true</item>
+        <item name="pdfView_disableScreenshots">false</item>
+        <item name="pdfView_actionBarTint">@color/top_bar_color</item>
+        <item name="pdfView_titleTextStyle">@style/actionBarTitleAppearance</item>
+    </style>
+
+    <style name="actionBarTitleAppearance" parent="TextAppearance.AppCompat.Title">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>

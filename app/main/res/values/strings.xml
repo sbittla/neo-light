@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Neo-Light</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="topics_title">Topics</string>
+
+    <string-array
+        name="chapter_list">
+        <item>Mindful Meditation</item>
+        <item>Beloved Perceptions</item>
+        <item>Just in a Few Words</item>
+        <item>For Valiant Spiritual Travelers</item>
+        <item>The Cosmic Tune</item>
+        <item>Origin of the Sustained Motion</item>
+        <item>Who is Awake while Asleep</item>
+        <item>The Ultimate Service</item>
+        <item>The Cosmic Void</item>
+        <item>Devotion and Yoga</item>
+    </string-array>
+
+    <string-array name="chapter_list_beloved_perceptions">
+        <item>Attributeless Quality of Cosmos</item>
+        <item>Backup of Consciousness</item>
+        <item>Beyond Desires</item>
+        <item>Courthouse of Justice</item>
+        <item>Cryptography of the Universe</item>
+        <item>Dualism Vs. Non-Dualism</item>
+        <item>Ego of Intelligence</item>
+        <item>Equity of Universal Resources</item>
+        <item>Expansion of Universe</item>
+        <item>Faith Vs. Confidence</item>
+        <item>Five Elements of Mind</item>
+        <item>Flight of a Soul</item>
+        <item>Four Pillers of Knowledge</item>
+        <item>God Particle</item>
+        <item>Holistic Approach Toward Spirituality</item>
+        <item>Hunger of Soul</item>
+        <item>Living God</item>
+        <item>Love and Relationships</item>
+        <item>Love Calibration</item>
+        <item>Love Vs. Devotion</item>
+        <item>Mindful Togetherness</item>
+        <item>Mirage of Self</item>
+        <item>Mystery without Mystery</item>
+        <item>Myth of Self</item>
+        <item>Perfect Prayer</item>
+        <item>Picture of Nothingness</item>
+        <item>Power of Silence</item>
+        <item>Projection of Eternal Cosmos</item>
+        <item>Resolving Inner Conflicts</item>
+        <item>Role of Subtle Body</item>
+        <item>Sheaths of Consciousness</item>
+        <item>Science of Meditation</item>
+        <item>Seven Centres</item>
+        <item>Social Self and Spiritual Self</item>
+        <item>Souls as the Product of Evolution</item>
+        <item>The ‘Divine Aloneness’</item>
+        <item>The Evolutionary Model</item>
+        <item>The Genuine Seeker</item>
+        <item>The Golden Vessel</item>
+        <item>The Spiritual Scientist</item>
+        <item>The Ultimate Protector</item>
+        <item>Tightrope Walking</item>
+        <item>Treasure Hunt</item>
+        <item>Trials and Tribulations</item>
+        <item>True Question</item>
+        <item>Uncommon Wisdom</item>
+        <item>Universal Consciousness</item>
+        <item>Universal Awareness</item>
+        <item>Veil of Ego</item>
+        <item>War of Worship</item>
+        <item>Wisdom Uncreate</item>
+
+    </string-array>
+
+    <string-array name="chapter_list_the_cosmic_void">
+    <item>Untraceable Void</item>
+        <item>Supreme Void</item>
+        <item>Superconscious Void</item>
+        <item>Ultimate Void</item>
+        <item>Exploring Void</item>
+        <item>Elusive Void</item>
+        <item>Transcendent Void</item>
+        <item>Magnificent Void</item>
+        <item>Everlasting Void</item>
+        <item>Infinite Void</item>
+        <item>Rhythmic Void</item>
+        <item>Vast Void</item>
+        <item>Perpetual Void</item>
+        <item>Flourishing Void</item>
+        <item>Full-Perfect Void</item>
+        <item>Omnipotent Void</item>
+        <item>Endless Void</item>
+        <item>Ever-refining Void</item>
+        <item>Eternal Void</item>
+        <item>Boundless Void</item>
+        <item>Priceless Quotations</item>
+    </string-array>
+
+    <string name="lorem_ipsum">
+    </string>
+</resources>
