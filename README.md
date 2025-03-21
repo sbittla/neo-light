@@ -97,17 +97,19 @@ To release your app on the Play Store:
 
 ### 📁 Project Structure
 
-Neo-Light/
-├── app/
-│   ├── src/
-│   │   └── main/
-│   │       ├── java/                  # Kotlin/Java source code
-│   │       ├── res/                   # Layouts, drawables, strings, etc.
-│   │       ├── assets/                # Static files like PDFs
-│   │       └── AndroidManifest.xml    # App manifest
-│   └── build.gradle                   # Module-level Gradle config
-│
-├── build.gradle                       # Project-level
+<pre> Neo-Light/ 
+  ├── app/ 
+  │ ├── src/ 
+  │ │ └── main/ 
+  │ │   ├── java/ # Kotlin/Java source code 
+  │ │   ├── res/ # Layouts, drawables, strings, etc. 
+  │ │   ├── assets/ # Static files like PDFs 
+  │ │   └── AndroidManifest.xml # App manifest 
+  │ └── build.gradle # Module-level Gradle config 
+  ├── build.gradle # Project-level Gradle config 
+  ├── settings.gradle # Project settings 
+</pre>
+
 
 ---
 
